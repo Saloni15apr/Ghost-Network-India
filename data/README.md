@@ -1,0 +1,1 @@
+Place externally sourced city-to-city topology rows in `real_city_links.csv` only when the source actually supports the relationship. See `../DATA_PROVENANCE.md`. The starter CSV is intentionally empty; no real city links are claimed by default.
